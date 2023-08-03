@@ -1,4 +1,7 @@
-https://stellargenetic.blaineam.com/
+
+
+![giphy](https://github.com/monicah79/monicah79/assets/107432779/694b8585-81e6-4795-96d1-1e06f898c03a)
+
 - 👋 Hi, I’m @monicah79
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Full-Stack Web Development at Microverse online school
